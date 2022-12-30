@@ -1,0 +1,3 @@
+﻿  kursovaya.cpp
+C:\Users\sagat\source\repos\kursovaya\kursovaya\kursovaya.cpp(116,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  kursovaya.vcxproj -> C:\Users\sagat\source\repos\kursovaya\x64\Debug\kursovaya.exe

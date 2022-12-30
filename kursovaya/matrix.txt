@@ -1,0 +1,6 @@
+5
+INF   INF   INF    44   INF
+INF   INF    28   INF   INF
+41    28   INF   INF   INF
+INF     1   INF   INF   INF
+INF    17     4   INF   INF
